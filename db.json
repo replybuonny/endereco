@@ -1,8 +1,22 @@
 {
-  "estado/26/cidades": [
+  "estado_cidades": [
     {
       "id": 4867,
       "nome": "São Paulo"
     }
-  ]
+  ],
+  "estados":  [
+        {
+            "id": 26,
+            "nome": "São Paulo",
+            "uf": "SP"
+        }
+    ],
+   "paises": [
+        {
+            "id": 1,
+            "nome": "Brasil",
+            "abreviacao": "BR"
+        }
+   ]
 }
